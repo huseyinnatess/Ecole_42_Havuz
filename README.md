@@ -1,6 +1,7 @@
 # Merhaba 👋
 
 Ecole 42'de havuz sınavına girip kazanan bir öğrenciyim.
+<br>
 💻 Bu yazıda, havuz süreci hakkında bilgilendirici olacak insanların stres yapmadan, nasıl çalışacağını, ortamın nasıl olduğunu, sürecin nasıl işlediği ile alakalı bilgi vermek istiyorum.
 
 ## Önemli
